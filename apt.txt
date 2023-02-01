@@ -1,0 +1,7 @@
+tesseract-ocr
+tesseract-ocr-deu
+tesseract-ocr-script-latn
+tesseract-ocr-script-frak
+libtesseract-dev
+ocrmypdf
+python3-opencv
