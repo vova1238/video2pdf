@@ -4,5 +4,5 @@ dependencies:
   - pytesseract
   - numpy
   - PyPDF2
-  - opencv-python
+  - opencv-contrib-python
   - Pillow
